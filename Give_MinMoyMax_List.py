@@ -1,3 +1,5 @@
+### @Alex ###
+
 import statistics
 
 ### Définition de la fonction ###
