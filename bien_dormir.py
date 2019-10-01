@@ -25,6 +25,9 @@ print(
     '.  '  . `'---'`.'
       `'-..._____.-`
 """
+"\n"
+"Ce script prend en compte qu'il faut 15 min en moyenne pour s'endormir."
+"Il faut en général 5 à 6 cycles (un cycle = 90 min) pour une bonne nuit."
 "\n")
 
 sleep(3)
