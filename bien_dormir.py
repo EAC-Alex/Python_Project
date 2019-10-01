@@ -3,11 +3,11 @@ from time import sleep
 from datetime import datetime, timedelta
 
 print(
-"\n"
-"-----------------------------\n"
-"Bienvenue dans bien_dormir.py\n"
-"-----------------------------\n"
 """
+-----------------------------
+Bienvenue dans bien_dormir.py
+-----------------------------
+
          ______
       .-'` .    `'-.
     .'  '    .---.  '.
@@ -24,19 +24,24 @@ print(
    \  .    '.       .'/
     '.  '  . `'---'`.'
       `'-..._____.-`
-"""
-"\n"
-"Ce script prend en compte qu'il faut 15 min en moyenne pour s'endormir."
-"Il faut en général 5 à 6 cycles (un cycle = 90 min) pour une bonne nuit."
-"\n")
+
+Ce script prend en compte qu'il faut 15 min en moyenne pour s'endormir.
+Il faut en général 5 à 6 cycles (un cycle = 90 min) pour une bonne nuit.
+
+""")
 
 sleep(3)
 
-print("------\n"
-      " MODE \n"
-      "------\n"
-      "1) Choisir l'heure à laquelle je veux me réveiller et recevoir l'heure à laquelle je devrais dormir\n"
-      "2) Allez dormir maintenant et recevoir l'heure ou je devrais me lever\n")
+print(
+"""
+----------
+   MODE
+----------
+
+1) Choisir l'heure à laquelle je veux me réveiller et recevoir l'heure à laquelle je devrais dormir
+2) Allez dormir maintenant et recevoir l'heure ou je devrais me lever
+
+""")
 
 mode_choice = input("Votre mode : ")
 
