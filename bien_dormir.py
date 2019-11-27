@@ -77,7 +77,7 @@ elif mode_choice == "2":
         i = i.strftime("%H h %M")
         print("---> ", i)
 
-    input()
+    input("Appuyer sur Enter pour quitter...")
 
 else:
     print("\nCe mode n'existe pas !")
