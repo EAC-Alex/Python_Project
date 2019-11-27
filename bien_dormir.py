@@ -38,8 +38,8 @@ print(
    MODE
 ----------
 
-1) Choisir l'heure à laquelle je veux me réveiller et recevoir l'heure à laquelle je devrais dormir
-2) Allez dormir maintenant et recevoir l'heure ou je devrais me lever
+1) Choisir l'heure à laquelle je veux me réveiller et recevoir l'heure à laquelle je devrais dormir.
+2) Allez dormir maintenant et recevoir l'heure ou je devrais me lever.
 
 """)
 
