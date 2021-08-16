@@ -24,11 +24,6 @@ def calculate_combinations(base, nb_chars):
     
 
 if __name__ == "__main__":
-    # Possible combinations in a byte
-    show_combinations_graph("Increase of combinations in binary", 2, 10)
-
-    # Possible combinations of a simple bank card PIN code
-    show_combinations_graph("Increase of combinations in decimal", 10, 10)
-
-    # Possible combinations in a regular password
-    show_combinations_graph("Increase of combinations in alphabet", 26, 10)
+    show_combinations_graph("Combinations in binary", 2, 10)
+    show_combinations_graph("Combinations in decimal", 10, 10)
+    show_combinations_graph("Combinations in alphabet", 26, 10)
