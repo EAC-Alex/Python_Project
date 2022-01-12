@@ -9,7 +9,7 @@ Voici le fonctionnement étape par étape du script :
 2) Vérification
 3) Résultat
 
-Attention ce site a besoin du module numpy pour fonctionner
+Attention ce script a besoin du module numpy pour fonctionner
 
 Réalisé dans le cadre des laboratoires d'introduction à la programmation (IE-IR-B1) 
 Auteur : Henrotte Alexandre, avec l'aide de monsieur BOURRADA
